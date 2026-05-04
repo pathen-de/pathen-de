@@ -11,7 +11,7 @@ I investigate these questions through a combination of computer simulations, lab
 📬 [patrick.hendriks@tu-darmstadt.de](mailto:patrick.hendriks@tu-darmstadt.de)
 
 ## Profile
-<a href="https://www.linkedin.com/in/patrickhendriks-de/" target="_blank"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" width="32" height="32" alt="LinkedIn"></a>
+<a href="https://www.linkedin.com/in/patrickhendriks-de/" target="_blank"><img src="./assets/linkedin.svg" width="32" height="32" alt="LinkedIn"></a>
 &#8287;&#8287;&#8287;&#8287;&#8287;
 <a href="https://scholar.google.com/citations?hl=en&user=rrgkRGUAAAAJ" target="_blank"><img src="./assets/google-scholar.svg" width="32" height="32" alt="Google Scholar"></a>
 &#8287;&#8287;&#8287;&#8287;&#8287;
