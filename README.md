@@ -2,13 +2,13 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=6272A4&text=Hi%20there%20%F0%9F%91%8B%20I%27m%20Patrick&fontColor=ffffff&fontSize=24&fontAlignY=25"/>
 </p>
 
-I am a **Postdoctoral Researcher** at the Chair of Information Systems | Software & AI Business at the Technical University of Darmstadt.
+I focus on the design, deployment, and governance of AI agents and generative AI in organizations.
 
-My research explores how AI and LLM-based agents are reshaping human learning at the team, organizational, and societal levels. I study how people acquire, retain, and share knowledge in interaction with AI: how AI supports or constrains learning and collective knowledge creation, how organizations can design human–AI collaboration to foster innovation, and how LLM-based agents collaborate with one another and with people to solve complex problems.
+My work explores how AI and LLM-based agents are reshaping human learning at the team, organizational, and societal levels. In particular, I look at how people acquire, retain, and share knowledge in interaction with AI: how AI supports or constrains learning and collective knowledge creation, how organizations can design human–AI collaboration to foster innovation, and how LLM-based agents collaborate with one another and with people to solve complex problems.
 
-I investigate these questions through a combination of computer simulations, laboratory experiments, and software prototypes, with a broader interest in AI systems that work *with* people rather than simply replacing them.
+I approach these questions through a combination of computer simulations, laboratory experiments, and software prototypes, with a broader interest in AI systems that work with people rather than simply replacing them.
 
-📬 [patrick.hendriks@tu-darmstadt.de](mailto:patrick.hendriks@tu-darmstadt.de)
+📬 [patrick.hendriks.contact@gmail.com](mailto:patrick.hendriks.contact@gmail.com)
 
 ## Profile
 <a href="https://www.linkedin.com/in/patrickhendriks-de/" target="_blank"><img src="./assets/linkedin.svg" width="32" height="32" alt="LinkedIn"></a>
@@ -88,7 +88,7 @@ I investigate these questions through a combination of computer simulations, lab
 
 ## Get in Touch 💬
 I'm always happy to talk about research, collaborations, and new ideas.
-Feel free to reach out via [LinkedIn][4] or [email](mailto:patrick.hendriks@tu-darmstadt.de).
+Feel free to reach out via [LinkedIn][4] or [email](mailto:patrick.hendriks.contact@gmail.com).
 
 <!-- Links -->
 [1]: https://www.researchgate.net/publication/382276861_Exploring_Collaboration_in_Human-Artificial_Intelligence_Teams_A_Design_Science_Approach_to_Team-AI_Collaboration_Systems
